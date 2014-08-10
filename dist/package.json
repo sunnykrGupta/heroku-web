@@ -1,0 +1,23 @@
+{
+  "name": "nextbyte",
+  "version": "0.0.0",
+  "description": "",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sunnyLA4/heroku-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunnyLA4/heroku-web/issues"
+  },
+  "homepage": "https://github.com/sunnyLA4/heroku-web",
+  "dependencies": {
+    "gzippo": "^0.2.0",
+    "express": "^4.8.2"
+  }
+}
